@@ -1,3 +1,6 @@
+[malibu read me![Cover](https://github.com/michael-andreuzza/malibu-theme-zed/blob/main/assets/cover.png?raw=true)
+
+
 # Malibu for VS Code.
 
 # Installation
@@ -16,9 +19,9 @@
 - Malibu Sunrise
 
 ### Sunset
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibutheme-zed/assets/sunset.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme-zed/blob/main/assets/malibu-sunset.png?raw=true)
 ### Sunrise
-![VS Code Marketplace](https://github.com/michael-andreuzza/malibutheme-zed/assets/sunrise.png?raw=true)
+![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme-zed/blob/main/assets/malibu-sunrise.png?raw=true)
 raw=true)
 
 
