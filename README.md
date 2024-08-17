@@ -22,7 +22,7 @@
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme-zed/blob/main/assets/malibu-sunset.png?raw=true)
 ### Sunrise
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme-zed/blob/main/assets/malibu-sunrise.png?raw=true)
-raw=true)
+
 
 
 All themes use italics for certain language tokens by default.
