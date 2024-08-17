@@ -15,8 +15,8 @@
 
 
 ## Available Options
-- Malibu Sunset italics
-- Malibu Sunrise italics
+- Malibu Sunset — italics
+- Malibu Sunrise — italics
 
 ### Sunset
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme-zed/blob/main/assets/malibu-sunset.png?raw=true)
@@ -24,5 +24,5 @@
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme-zed/blob/main/assets/malibu-sunrise.png?raw=true)
 
 
-Malibu Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported to Zed by [L I N U X ( リナックス )](https://github.com/linuxmobile)
+Malibu Theme created and ported by [Micheal Andreuzza](https://github.com/michael-andreuzza) and [L I N U X ( リナックス )](https://github.com/linuxmobile)
 
