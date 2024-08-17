@@ -11,7 +11,7 @@
 4. Click on **Install**.
 5. Open the **Command Palette** again
 6. Open the **Theme selector** with the `theme selector: toggle` command
-7. Search for `Malibu` and choose an `Malibu` variant.
+7. Search for `Malibu` and choose an `Malibu` variant ( Sunset or Sunrise ).
 
 
 ## Available Options
