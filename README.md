@@ -15,17 +15,13 @@
 
 
 ## Available Options
-- Malibu Sunset
-- Malibu Sunrise
+- Malibu Sunset italics
+- Malibu Sunrise italics
 
 ### Sunset
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme-zed/blob/main/assets/malibu-sunset.png?raw=true)
 ### Sunrise
 ![VS Code Marketplace](https://github.com/michael-andreuzza/malibu-theme-zed/blob/main/assets/malibu-sunrise.png?raw=true)
-
-
-
-All themes use italics for certain language tokens by default.
 
 
 Malibu Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza).
