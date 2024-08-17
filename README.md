@@ -26,5 +26,3 @@
 
 Malibu Theme created by [Micheal Andreuzza](https://github.com/michael-andreuzza) and ported to Zed by [L I N U X ( リナックス )](https://github.com/linuxmobile)
 
-
-# malibu-theme-zed
