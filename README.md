@@ -1,4 +1,4 @@
-[Cover](https://github.com/michael-andreuzza/malibu-theme-zed/blob/main/assets/cover.png?raw=true)
+![Cover](https://github.com/michael-andreuzza/malibu-theme-zed/blob/main/assets/cover.png?raw=true)
 
 
 # Malibu for VS Code.
