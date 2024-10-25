@@ -133,7 +133,7 @@
         "warning.border": "#83B4B5",
         "players": [
           {
-            "cursor": "#6e6a86",
+            "cursor": "#8B95BB",
             "background": "#6e6a86",
             "selection": "#817c9c26"
           },
@@ -225,7 +225,7 @@
             "font_weight": null
           },
           "hint": {
-            "color": "#6e6a86",
+            "color": "#8B95BB",
             "font_style": null,
             "font_weight": 700
           },
@@ -265,12 +265,12 @@
             "font_weight": null
           },
           "preproc": {
-            "color": "#6e6a86",
+            "color": "#8B95BB",
             "font_style": null,
             "font_weight": null
           },
           "primary": {
-            "color": "#6e6a86",
+            "color": "#8B95BB",
             "font_style": null,
             "font_weight": null
           },
@@ -541,7 +541,7 @@
           "attribute": {
             "color": "#78aa9a",
             "font_style": null,
-            "font_weight": null
+            "font_weight": null8B95BB
           },
           "boolean": {
             "color": "#c8342a",
