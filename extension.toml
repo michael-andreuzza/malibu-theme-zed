@@ -4,4 +4,4 @@ version = "0.0.1"
 schema_version = 1
 authors = ["Michael Andreuzza<michaelandreuzza@gmail.com>"]
 description = "A retro theme inspired by the surfing days in Malibu beach"
-repository = "https://github.com/michaelandreuzza/malibu-theme-zed"
+repository = "https://github.com/michael-andreuzza/malibu-theme-zed"
