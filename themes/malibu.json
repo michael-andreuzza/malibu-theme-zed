@@ -406,7 +406,7 @@
         "panel.background": "#faf4ed",
         "panel.focused_border": "#faf4ed",
         "pane.focused_border": "#faf4ed",
-        "scrollbar_thumb.background": "#f2e9e1",
+        "scrollbar.thumb.background": "#f2e9e1",
         "scrollbar.thumb.hover_background": "#f2e9e1e6",
         "scrollbar.thumb.border": "#f2e9e1",
         "scrollbar.track.background": "#fffaf3",
